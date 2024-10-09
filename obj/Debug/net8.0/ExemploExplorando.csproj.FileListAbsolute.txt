@@ -1,0 +1,17 @@
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\DadosEListasDotNet\ExemploExplorando\obj\Debug\net8.0\ExemploE.B7F01285.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHwPcj2JgAQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Desktop\\Projetos\\DIO\\dio-dotnet\\DadosEListasDotNet\\ExemploExplorando\\ExemploExplorando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
